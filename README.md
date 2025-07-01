@@ -100,7 +100,7 @@ localhost:9696/speech
 
 ### 8. Send Speech via Email
 
-**Endpoint:** `/send/{speechId}?recipient=`  
+**Endpoint:** `/sendSpeech/{speechId}?recipient=`  
 **HTTP Method:** POST  
 **Description:** Sends the speech as an email to the specified recipient.  
 **Path Variable:**
